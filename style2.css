@@ -1,0 +1,30 @@
+form{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(0, 0, 0);
+    margin: auto;
+background-color: white;
+    width: 580px;
+    box-sizing: border-box;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+
+input,textarea{
+    outline: none;
+    border: solid 1px #000000;
+    width: 500px;
+    padding: 10px;
+    color: rgb(0, 0, 0);
+}
+input,select{
+    outline: none;
+    border: solid 1px #000000;
+    color: rgb(0, 0, 0) ;
+}
+input.bt{
+    color: rgb(0, 0, 0);
+    background-color: transparent; 
+
+}
